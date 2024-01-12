@@ -1,0 +1,457 @@
+Response from  https://api.smartthings.com/v1/devices
+ items ( <class 'list'> ) : 
+	 (0)
+		 deviceId ( <class 'str'> ) :  d079919d-2a73-45a8-a57a-9d06bfcce8f7
+		 name ( <class 'str'> ) :  switch
+		 label ( <class 'str'> ) :  switch
+		 manufacturerName ( <class 'str'> ) :  SmartThingsCommunity
+		 presentationId ( <class 'str'> ) :  74cf66e1-ae7f-3a14-a6a8-1affef9ec321
+		 locationId ( <class 'str'> ) :  ec32f564-8061-453f-8ae3-cb5b541fe9f1
+		 ownerId ( <class 'str'> ) :  1bb1edd1-168f-54da-2429-3aaf64dfa095
+		 roomId ( <class 'str'> ) :  2e4bc9a1-1b19-4649-a3f2-a39a63ebe702
+		 components ( <class 'list'> ) :  [{'id': 'main', 'label': 'main', 'capabilities': [{'id': 'switch', 'version': 1}, {'id': 'refresh', 'version': 1}], 'categories': [{'name': 'Switch', 'categoryType': 'manufacturer'}]}]
+		 createTime ( <class 'str'> ) :  2024-01-08T05:07:02.395Z
+		 profile ( <class 'dict'> ) :  {'id': '71ed0734-123f-330f-886c-174466bbfe76'}
+		 virtual ( <class 'dict'> ) :  {'name': 'switch', 'executingLocally': False}
+		 type ( <class 'str'> ) :  VIRTUAL
+		 restrictionTier ( <class 'int'> ) :  0
+		 allowed ( <class 'list'> ) :  []
+		 indoorMap ( <class 'dict'> ) :  {'coordinates': [0.0, 0.0, 0.0], 'rotation': [0.0, 0.0, 0.0], 'visible': False, 'data': None}
+		 executionContext ( <class 'str'> ) :  CLOUD
+
+
+	 (1)
+		 deviceId ( <class 'str'> ) :  a0cb4e63-a10f-4a24-8685-85f1c29429b3
+		 name ( <class 'str'> ) :  Virtual Device
+		 label ( <class 'str'> ) :  Virtual Device
+		 manufacturerName ( <class 'str'> ) :  SmartThingsCommunity
+		 presentationId ( <class 'str'> ) :  62c28199-f6cd-30cb-aed3-8e80afff9379
+		 locationId ( <class 'str'> ) :  6a2b7135-0400-4ef0-aef2-b7df0c0a5536
+		 ownerId ( <class 'str'> ) :  1bb1edd1-168f-54da-2429-3aaf64dfa095
+		 components ( <class 'list'> ) :  [{'id': 'main', 'label': 'main', 'capabilities': [{'id': 'alarm', 'version': 1}, {'id': 'refresh', 'version': 1}], 'categories': [{'name': 'Siren', 'categoryType': 'manufacturer'}]}]
+		 createTime ( <class 'str'> ) :  2024-01-11T07:24:58.747Z
+		 profile ( <class 'dict'> ) :  {'id': '25675b06-ef5f-323e-8ea9-60f3216d0a77'}
+		 virtual ( <class 'dict'> ) :  {'name': 'Virtual Device', 'executingLocally': False}
+		 type ( <class 'str'> ) :  VIRTUAL
+		 restrictionTier ( <class 'int'> ) :  0
+		 allowed ( <class 'list'> ) :  []
+		 executionContext ( <class 'str'> ) :  CLOUD
+
+
+	 (2)
+		 deviceId ( <class 'str'> ) :  0630ffad-1c6a-4105-a409-927f0af28ca7
+		 name ( <class 'str'> ) :  Virtual Device
+		 label ( <class 'str'> ) :  Virtual Device
+		 manufacturerName ( <class 'str'> ) :  SmartThingsCommunity
+		 presentationId ( <class 'str'> ) :  fdf56092-02c9-3b1d-9a15-88e6ffd6e8a4
+		 locationId ( <class 'str'> ) :  ec32f564-8061-453f-8ae3-cb5b541fe9f1
+		 ownerId ( <class 'str'> ) :  1bb1edd1-168f-54da-2429-3aaf64dfa095
+		 roomId ( <class 'str'> ) :  72727253-7830-47c6-be50-3b3edf60d86a
+		 components ( <class 'list'> ) :  [{'id': 'main', 'label': 'main', 'capabilities': [{'id': 'contactSensor', 'version': 1}, {'id': 'refresh', 'version': 1}], 'categories': [{'name': 'ContactSensor', 'categoryType': 'manufacturer'}]}]
+		 createTime ( <class 'str'> ) :  2024-01-11T07:25:40.387Z
+		 profile ( <class 'dict'> ) :  {'id': 'b5c37a8c-31b7-3c9c-bf31-bad43d9bf23a'}
+		 virtual ( <class 'dict'> ) :  {'name': 'Virtual Device', 'executingLocally': False}
+		 type ( <class 'str'> ) :  VIRTUAL
+		 restrictionTier ( <class 'int'> ) :  0
+		 allowed ( <class 'list'> ) :  []
+		 executionContext ( <class 'str'> ) :  CLOUD
+
+
+	 (3)
+		 deviceId ( <class 'str'> ) :  e62aa889-c278-e40d-c06a-17796a42a934
+		 name ( <class 'str'> ) :  Samsung AirMonitor
+		 label ( <class 'str'> ) :  에어모니터 플러스
+		 manufacturerName ( <class 'str'> ) :  Samsung Electronics
+		 presentationId ( <class 'str'> ) :  DA-AC-AIRSENSOR-01001
+		 deviceManufacturerCode ( <class 'str'> ) :  Samsung Electronics
+		 locationId ( <class 'str'> ) :  ec32f564-8061-453f-8ae3-cb5b541fe9f1
+		 ownerId ( <class 'str'> ) :  1bb1edd1-168f-54da-2429-3aaf64dfa095
+		 roomId ( <class 'str'> ) :  72727253-7830-47c6-be50-3b3edf60d86a
+		 deviceTypeName ( <class 'str'> ) :  x.com.st.d.airqualitysensor
+		 components ( <class 'list'> ) :  [{'id': 'main', 'label': 'main', 'capabilities': [{'id': 'ocf', 'version': 1}, {'id': 'execute', 'version': 1}, {'id': 'refresh', 'version': 1}, {'id': 'temperatureMeasurement', 'version': 1}, {'id': 'relativeHumidityMeasurement', 'version': 1}, {'id': 'dustSensor', 'version': 1}, {'id': 'dustHealthConcern', 'version': 1}, {'id': 'fineDustHealthConcern', 'version': 1}, {'id': 'veryFineDustSensor', 'version': 1}, {'id': 'veryFineDustHealthConcern', 'version': 1}, {'id': 'airQualitySensor', 'version': 1}, {'id': 'odorSensor', 'version': 1}, {'id': 'carbonDioxideMeasurement', 'version': 1}, {'id': 'carbonDioxideHealthConcern', 'version': 1}, {'id': 'samsungce.deviceIdentification', 'version': 1}, {'id': 'samsungce.rechargeableBattery', 'version': 1}, {'id': 'samsungce.doNotDisturb', 'version': 1}, {'id': 'samsungce.driverVersion', 'version': 1}, {'id': 'samsungce.softwareUpdate', 'version': 1}, {'id': 'custom.deviceReportStateConfiguration', 'version': 1}, {'id': 'custom.disabledCapabilities', 'version': 1}, {'id': 'sec.diagnosticsInformation', 'version': 1}], 'categories': [{'name': 'AirQualityDetector', 'categoryType': 'manufacturer'}]}]
+		 createTime ( <class 'str'> ) :  2024-01-12T00:17:09.003Z
+		 profile ( <class 'dict'> ) :  {'id': '1d34dd9d-6840-3df6-a6d0-5d9f4a4af2e1'}
+		 ocf ( <class 'dict'> ) :  {'ocfDeviceType': 'x.com.st.d.airqualitysensor', 'name': 'Samsung AirMonitor', 'specVersion': 'core.1.1.0', 'verticalDomainSpecVersion': 'res.1.1.0,sh.1.1.0', 'manufacturerName': 'Samsung Electronics', 'modelNumber': 'ASM-KR-TP1-22-ACMB1M|10243041|75000000001611C40800020000080000', 'platformVersion': 'DAWIT 2.0', 'platformOS': 'TizenRT 4.0', 'hwVersion': 'Realtek', 'firmwareVersion': 'ASM-KR-TP1-22-ACMB1M_16221007', 'vendorId': 'DA-AC-AIRSENSOR-01001', 'vendorResourceClientServerVersion': 'MediaTek Release 221007', 'lastSignupTime': '2024-01-12T00:17:04.653024Z'}
+		 type ( <class 'str'> ) :  OCF
+		 restrictionTier ( <class 'int'> ) :  0
+		 allowed ( <class 'list'> ) :  []
+		 executionContext ( <class 'str'> ) :  CLOUD
+
+
+	 (4)
+		 deviceId ( <class 'str'> ) :  ad7a40ae-a057-4f58-8bbb-a0beeea3b423
+		 name ( <class 'str'> ) :  Water Sensor
+		 label ( <class 'str'> ) :  Water Sensor
+		 manufacturerName ( <class 'str'> ) :  SmartThingsCommunity
+		 presentationId ( <class 'str'> ) :  838ae989-b832-3610-968c-2940491600f6
+		 locationId ( <class 'str'> ) :  ec32f564-8061-453f-8ae3-cb5b541fe9f1
+		 ownerId ( <class 'str'> ) :  1bb1edd1-168f-54da-2429-3aaf64dfa095
+		 roomId ( <class 'str'> ) :  2e4bc9a1-1b19-4649-a3f2-a39a63ebe702
+		 components ( <class 'list'> ) :  [{'id': 'main', 'label': 'main', 'capabilities': [{'id': 'waterSensor', 'version': 1}, {'id': 'battery', 'version': 1}, {'id': 'refresh', 'version': 1}], 'categories': [{'name': 'LeakSensor', 'categoryType': 'manufacturer'}]}]
+		 createTime ( <class 'str'> ) :  2024-01-08T05:35:23.072Z
+		 profile ( <class 'dict'> ) :  {'id': '39230a95-d42d-34d4-a33c-f79573495a30'}
+		 virtual ( <class 'dict'> ) :  {'name': 'Water Sensor', 'executingLocally': False}
+		 type ( <class 'str'> ) :  VIRTUAL
+		 restrictionTier ( <class 'int'> ) :  0
+		 allowed ( <class 'list'> ) :  []
+		 executionContext ( <class 'str'> ) :  CLOUD
+
+
+	 (5)
+		 deviceId ( <class 'str'> ) :  85790465-402e-43df-bd4d-3f71b2b46e6d
+		 name ( <class 'str'> ) :  냉장고
+		 label ( <class 'str'> ) :  냉장고
+		 manufacturerName ( <class 'str'> ) :  SmartThingsCommunity
+		 presentationId ( <class 'str'> ) :  a43ac549-31e0-3ccb-806a-624d90aab5ef
+		 locationId ( <class 'str'> ) :  ec32f564-8061-453f-8ae3-cb5b541fe9f1
+		 ownerId ( <class 'str'> ) :  1bb1edd1-168f-54da-2429-3aaf64dfa095
+		 roomId ( <class 'str'> ) :  2e4bc9a1-1b19-4649-a3f2-a39a63ebe702
+		 components ( <class 'list'> ) :  [{'id': 'main', 'label': 'main', 'capabilities': [{'id': 'contactSensor', 'version': 1}, {'id': 'powerConsumptionReport', 'version': 1}, {'id': 'demandResponseLoadControl', 'version': 1}, {'id': 'refresh', 'version': 1}, {'id': 'refrigeration', 'version': 1}, {'id': 'temperatureMeasurement', 'version': 1}, {'id': 'thermostatCoolingSetpoint', 'version': 1}], 'categories': [{'name': 'Refrigerator', 'categoryType': 'manufacturer'}]}, {'id': 'freezer', 'label': 'freezer', 'capabilities': [{'id': 'contactSensor', 'version': 1}, {'id': 'temperatureMeasurement', 'version': 1}, {'id': 'thermostatCoolingSetpoint', 'version': 1}], 'categories': [{'name': 'Other', 'categoryType': 'manufacturer'}]}, {'id': 'cooler', 'label': 'cooler', 'capabilities': [{'id': 'contactSensor', 'version': 1}, {'id': 'temperatureMeasurement', 'version': 1}, {'id': 'thermostatCoolingSetpoint', 'version': 1}], 'categories': [{'name': 'Other', 'categoryType': 'manufacturer'}]}, {'id': 'cvroom', 'label': 'cvroom', 'capabilities': [{'id': 'contactSensor', 'version': 1}], 'categories': [{'name': 'Other', 'categoryType': 'manufacturer'}]}, {'id': 'icemaker', 'label': 'icemaker', 'capabilities': [{'id': 'switch', 'version': 1}], 'categories': [{'name': 'Other', 'categoryType': 'manufacturer'}]}, {'id': 'icemaker-02', 'label': 'icemaker-02', 'capabilities': [{'id': 'switch', 'version': 1}], 'categories': [{'name': 'Other', 'categoryType': 'manufacturer'}]}]
+		 createTime ( <class 'str'> ) :  2024-01-08T05:33:53.865Z
+		 profile ( <class 'dict'> ) :  {'id': 'ab5a3095-b2e4-381a-97f3-26c4069285db'}
+		 virtual ( <class 'dict'> ) :  {'name': '냉장고', 'executingLocally': False}
+		 type ( <class 'str'> ) :  VIRTUAL
+		 restrictionTier ( <class 'int'> ) :  0
+		 allowed ( <class 'list'> ) :  []
+		 indoorMap ( <class 'dict'> ) :  {'coordinates': [0.0, 0.0, 0.0], 'rotation': [0.0, 0.0, 0.0], 'visible': False, 'data': None}
+		 executionContext ( <class 'str'> ) :  CLOUD
+
+
+ _links ( <class 'dict'> ) : 
+	 {}
+
+
+Response from  https://api.smartthings.com/v1/devices/d079919d-2a73-45a8-a57a-9d06bfcce8f7
+	 deviceId ( <class 'str'> ) : 
+		 d079919d-2a73-45a8-a57a-9d06bfcce8f7
+	 name ( <class 'str'> ) : 
+		 switch
+	 label ( <class 'str'> ) : 
+		 switch
+	 manufacturerName ( <class 'str'> ) : 
+		 SmartThingsCommunity
+	 presentationId ( <class 'str'> ) : 
+		 74cf66e1-ae7f-3a14-a6a8-1affef9ec321
+	 locationId ( <class 'str'> ) : 
+		 ec32f564-8061-453f-8ae3-cb5b541fe9f1
+	 ownerId ( <class 'str'> ) : 
+		 1bb1edd1-168f-54da-2429-3aaf64dfa095
+	 roomId ( <class 'str'> ) : 
+		 2e4bc9a1-1b19-4649-a3f2-a39a63ebe702
+	 components ( <class 'list'> ) : 
+		 (0)
+			 id ( <class 'str'> ) :  main
+			 label ( <class 'str'> ) :  main
+			 capabilities ( <class 'list'> ) :  [{'id': 'switch', 'version': 1}, {'id': 'refresh', 'version': 1}]
+			 categories ( <class 'list'> ) :  [{'name': 'Switch', 'categoryType': 'manufacturer'}]
+
+
+	 createTime ( <class 'str'> ) : 
+		 2024-01-08T05:07:02.395Z
+	 profile ( <class 'dict'> ) : 
+		 {'id': '71ed0734-123f-330f-886c-174466bbfe76'}
+	 virtual ( <class 'dict'> ) : 
+		 {'name': 'switch', 'executingLocally': False}
+	 type ( <class 'str'> ) : 
+		 VIRTUAL
+	 restrictionTier ( <class 'int'> ) : 
+		 0
+	 allowed ( <class 'NoneType'> ) : 
+		 None
+	 indoorMap ( <class 'dict'> ) : 
+		 {'coordinates': [0.0, 0.0, 0.0], 'rotation': [0.0, 0.0, 0.0], 'visible': False, 'data': None}
+	 executionContext ( <class 'str'> ) : 
+		 CLOUD
+
+
+Response from  https://api.smartthings.com/v1/devices/d079919d-2a73-45a8-a57a-9d06bfcce8f7/status
+	 components ( <class 'dict'> ) : 
+		 {'main': {'refresh': {}, 'switch': {'switch': {'value': 'off', 'timestamp': '2024-01-11T07:37:13.339Z'}}}}
+
+
+Response from  https://api.smartthings.com/v1/devices/a0cb4e63-a10f-4a24-8685-85f1c29429b3
+	 deviceId ( <class 'str'> ) : 
+		 a0cb4e63-a10f-4a24-8685-85f1c29429b3
+	 name ( <class 'str'> ) : 
+		 Virtual Device
+	 label ( <class 'str'> ) : 
+		 Virtual Device
+	 manufacturerName ( <class 'str'> ) : 
+		 SmartThingsCommunity
+	 presentationId ( <class 'str'> ) : 
+		 62c28199-f6cd-30cb-aed3-8e80afff9379
+	 locationId ( <class 'str'> ) : 
+		 6a2b7135-0400-4ef0-aef2-b7df0c0a5536
+	 ownerId ( <class 'str'> ) : 
+		 1bb1edd1-168f-54da-2429-3aaf64dfa095
+	 components ( <class 'list'> ) : 
+		 (0)
+			 id ( <class 'str'> ) :  main
+			 label ( <class 'str'> ) :  main
+			 capabilities ( <class 'list'> ) :  [{'id': 'alarm', 'version': 1}, {'id': 'refresh', 'version': 1}]
+			 categories ( <class 'list'> ) :  [{'name': 'Siren', 'categoryType': 'manufacturer'}]
+
+
+	 createTime ( <class 'str'> ) : 
+		 2024-01-11T07:24:58.747Z
+	 profile ( <class 'dict'> ) : 
+		 {'id': '25675b06-ef5f-323e-8ea9-60f3216d0a77'}
+	 virtual ( <class 'dict'> ) : 
+		 {'name': 'Virtual Device', 'executingLocally': False}
+	 type ( <class 'str'> ) : 
+		 VIRTUAL
+	 restrictionTier ( <class 'int'> ) : 
+		 0
+	 allowed ( <class 'NoneType'> ) : 
+		 None
+	 executionContext ( <class 'str'> ) : 
+		 CLOUD
+
+
+Response from  https://api.smartthings.com/v1/devices/a0cb4e63-a10f-4a24-8685-85f1c29429b3/status
+	 components ( <class 'dict'> ) : 
+		 {'main': {'alarm': {'alarm': {'value': 'off', 'timestamp': '2024-01-11T07:24:59.520Z'}}, 'refresh': {}}}
+
+
+Response from  https://api.smartthings.com/v1/devices/0630ffad-1c6a-4105-a409-927f0af28ca7
+	 deviceId ( <class 'str'> ) : 
+		 0630ffad-1c6a-4105-a409-927f0af28ca7
+	 name ( <class 'str'> ) : 
+		 Virtual Device
+	 label ( <class 'str'> ) : 
+		 Virtual Device
+	 manufacturerName ( <class 'str'> ) : 
+		 SmartThingsCommunity
+	 presentationId ( <class 'str'> ) : 
+		 fdf56092-02c9-3b1d-9a15-88e6ffd6e8a4
+	 locationId ( <class 'str'> ) : 
+		 ec32f564-8061-453f-8ae3-cb5b541fe9f1
+	 ownerId ( <class 'str'> ) : 
+		 1bb1edd1-168f-54da-2429-3aaf64dfa095
+	 roomId ( <class 'str'> ) : 
+		 72727253-7830-47c6-be50-3b3edf60d86a
+	 components ( <class 'list'> ) : 
+		 (0)
+			 id ( <class 'str'> ) :  main
+			 label ( <class 'str'> ) :  main
+			 capabilities ( <class 'list'> ) :  [{'id': 'contactSensor', 'version': 1}, {'id': 'refresh', 'version': 1}]
+			 categories ( <class 'list'> ) :  [{'name': 'ContactSensor', 'categoryType': 'manufacturer'}]
+
+
+	 createTime ( <class 'str'> ) : 
+		 2024-01-11T07:25:40.387Z
+	 profile ( <class 'dict'> ) : 
+		 {'id': 'b5c37a8c-31b7-3c9c-bf31-bad43d9bf23a'}
+	 virtual ( <class 'dict'> ) : 
+		 {'name': 'Virtual Device', 'executingLocally': False}
+	 type ( <class 'str'> ) : 
+		 VIRTUAL
+	 restrictionTier ( <class 'int'> ) : 
+		 0
+	 allowed ( <class 'NoneType'> ) : 
+		 None
+	 executionContext ( <class 'str'> ) : 
+		 CLOUD
+
+
+Response from  https://api.smartthings.com/v1/devices/0630ffad-1c6a-4105-a409-927f0af28ca7/status
+	 components ( <class 'dict'> ) : 
+		 {'main': {'contactSensor': {'contact': {'value': 'open', 'timestamp': '2024-01-11T07:25:41.025Z'}}, 'refresh': {}}}
+
+
+Response from  https://api.smartthings.com/v1/devices/e62aa889-c278-e40d-c06a-17796a42a934
+	 deviceId ( <class 'str'> ) : 
+		 e62aa889-c278-e40d-c06a-17796a42a934
+	 name ( <class 'str'> ) : 
+		 Samsung AirMonitor
+	 label ( <class 'str'> ) : 
+		 에어모니터 플러스
+	 manufacturerName ( <class 'str'> ) : 
+		 Samsung Electronics
+	 presentationId ( <class 'str'> ) : 
+		 DA-AC-AIRSENSOR-01001
+	 deviceManufacturerCode ( <class 'str'> ) : 
+		 Samsung Electronics
+	 locationId ( <class 'str'> ) : 
+		 ec32f564-8061-453f-8ae3-cb5b541fe9f1
+	 ownerId ( <class 'str'> ) : 
+		 1bb1edd1-168f-54da-2429-3aaf64dfa095
+	 roomId ( <class 'str'> ) : 
+		 72727253-7830-47c6-be50-3b3edf60d86a
+	 deviceTypeName ( <class 'str'> ) : 
+		 x.com.st.d.airqualitysensor
+	 components ( <class 'list'> ) : 
+		 (0)
+			 id ( <class 'str'> ) :  main
+			 label ( <class 'str'> ) :  main
+			 capabilities ( <class 'list'> ) :  [{'id': 'ocf', 'version': 1}, {'id': 'execute', 'version': 1}, {'id': 'refresh', 'version': 1}, {'id': 'temperatureMeasurement', 'version': 1}, {'id': 'relativeHumidityMeasurement', 'version': 1}, {'id': 'dustSensor', 'version': 1}, {'id': 'dustHealthConcern', 'version': 1}, {'id': 'fineDustHealthConcern', 'version': 1}, {'id': 'veryFineDustSensor', 'version': 1}, {'id': 'veryFineDustHealthConcern', 'version': 1}, {'id': 'airQualitySensor', 'version': 1}, {'id': 'odorSensor', 'version': 1}, {'id': 'carbonDioxideMeasurement', 'version': 1}, {'id': 'carbonDioxideHealthConcern', 'version': 1}, {'id': 'samsungce.deviceIdentification', 'version': 1}, {'id': 'samsungce.rechargeableBattery', 'version': 1}, {'id': 'samsungce.doNotDisturb', 'version': 1}, {'id': 'samsungce.driverVersion', 'version': 1}, {'id': 'samsungce.softwareUpdate', 'version': 1}, {'id': 'custom.deviceReportStateConfiguration', 'version': 1}, {'id': 'custom.disabledCapabilities', 'version': 1}, {'id': 'sec.diagnosticsInformation', 'version': 1}]
+			 categories ( <class 'list'> ) :  [{'name': 'AirQualityDetector', 'categoryType': 'manufacturer'}]
+
+
+	 createTime ( <class 'str'> ) : 
+		 2024-01-12T00:17:09.003Z
+	 profile ( <class 'dict'> ) : 
+		 {'id': '1d34dd9d-6840-3df6-a6d0-5d9f4a4af2e1'}
+	 ocf ( <class 'dict'> ) : 
+		 {'ocfDeviceType': 'x.com.st.d.airqualitysensor', 'name': 'Samsung AirMonitor', 'specVersion': 'core.1.1.0', 'verticalDomainSpecVersion': 'res.1.1.0,sh.1.1.0', 'manufacturerName': 'Samsung Electronics', 'modelNumber': 'ASM-KR-TP1-22-ACMB1M|10243041|75000000001611C40800020000080000', 'platformVersion': 'DAWIT 2.0', 'platformOS': 'TizenRT 4.0', 'hwVersion': 'Realtek', 'firmwareVersion': 'ASM-KR-TP1-22-ACMB1M_16221007', 'vendorId': 'DA-AC-AIRSENSOR-01001', 'vendorResourceClientServerVersion': 'MediaTek Release 221007', 'lastSignupTime': '2024-01-12T00:17:04.653024Z'}
+	 type ( <class 'str'> ) : 
+		 OCF
+	 restrictionTier ( <class 'int'> ) : 
+		 0
+	 allowed ( <class 'NoneType'> ) : 
+		 None
+	 executionContext ( <class 'str'> ) : 
+		 CLOUD
+
+
+Response from  https://api.smartthings.com/v1/devices/e62aa889-c278-e40d-c06a-17796a42a934/status
+	 components ( <class 'dict'> ) : 
+		 {'main': {'samsungce.rechargeableBattery': {'chargingStatus': {'value': 'charging', 'timestamp': '2024-01-12T00:17:09.605Z'}, 'battery': {'value': 100, 'unit': '%', 'timestamp': '2024-01-12T00:17:09.605Z'}, 'resolution': {'value': 1, 'timestamp': '2024-01-12T00:17:09.605Z'}}, 'relativeHumidityMeasurement': {'humidity': {'value': 37, 'unit': '%', 'timestamp': '2024-01-12T04:27:29.313Z'}}, 'refresh': {}, 'carbonDioxideHealthConcern': {'carbonDioxideHealthConcern': {'value': 'good', 'timestamp': '2024-01-12T02:41:46.614Z'}}, 'execute': {'data': {'value': None}}, 'carbonDioxideMeasurement': {'carbonDioxide': {'value': 987, 'unit': 'ppm', 'timestamp': '2024-01-12T05:15:20.453Z'}}, 'samsungce.deviceIdentification': {'micomAssayCode': {'value': None}, 'modelName': {'value': None}, 'serialNumber': {'value': None}, 'serialNumberExtra': {'value': None}, 'modelClassificationCode': {'value': None}, 'description': {'value': None}, 'binaryId': {'value': 'ASM-KR-TP1-22-ACMB1M', 'timestamp': '2024-01-12T00:17:10.146Z'}}, 'airQualitySensor': {'airQuality': {'value': 4, 'unit': 'CAQI', 'timestamp': '2024-01-12T04:41:29.537Z'}}, 'fineDustHealthConcern': {'fineDustHealthConcern': {'value': 'unhealthy', 'timestamp': '2024-01-12T05:14:54.544Z'}}, 'ocf': {'st': {'value': None}, 'mndt': {'value': None}, 'mnfv': {'value': 'ASM-KR-TP1-22-ACMB1M_16221007', 'timestamp': '2024-01-12T00:17:10.299Z'}, 'mnhw': {'value': 'Realtek', 'timestamp': '2024-01-12T00:17:10.299Z'}, 'di': {'value': 'e62aa889-c278-e40d-c06a-17796a42a934', 'timestamp': '2024-01-12T00:17:10.299Z'}, 'mnsl': {'value': 'http://www.samsung.com', 'timestamp': '2024-01-12T00:17:10.299Z'}, 'dmv': {'value': 'res.1.1.0,sh.1.1.0', 'timestamp': '2024-01-12T00:17:10.299Z'}, 'n': {'value': 'Samsung AirMonitor', 'timestamp': '2024-01-12T00:17:10.299Z'}, 'mnmo': {'value': 'ASM-KR-TP1-22-ACMB1M|10243041|75000000001611C40800020000080000', 'timestamp': '2024-01-12T00:17:10.299Z'}, 'vid': {'value': 'DA-AC-AIRSENSOR-01001', 'timestamp': '2024-01-12T00:17:10.299Z'}, 'mnmn': {'value': 'Samsung Electronics', 'timestamp': '2024-01-12T00:17:10.299Z'}, 'mnml': {'value': 'http://www.samsung.com', 'timestamp': '2024-01-12T00:17:10.299Z'}, 'mnpv': {'value': 'DAWIT 2.0', 'timestamp': '2024-01-12T00:17:10.299Z'}, 'mnos': {'value': 'TizenRT 4.0', 'timestamp': '2024-01-12T00:17:10.299Z'}, 'pi': {'value': 'e62aa889-c278-e40d-c06a-17796a42a934', 'timestamp': '2024-01-12T00:17:10.299Z'}, 'icv': {'value': 'core.1.1.0', 'timestamp': '2024-01-12T00:17:10.299Z'}}, 'odorSensor': {'odorLevel': {'value': 1, 'timestamp': '2024-01-12T01:31:53.299Z'}}, 'veryFineDustHealthConcern': {'veryFineDustHealthConcern': {'value': 'unhealthy', 'timestamp': '2024-01-12T05:15:20.453Z'}}, 'samsungce.doNotDisturb': {'settable': {'value': True, 'timestamp': '2024-01-12T00:17:09.440Z'}, 'dayOfWeek': {'value': None}, 'repeatMode': {'value': None}, 'startTime': {'value': '14:00:00Z', 'timestamp': '2024-01-12T00:17:09.440Z'}, 'endTime': {'value': '22:00:00Z', 'timestamp': '2024-01-12T00:17:09.440Z'}, 'activated': {'value': False, 'timestamp': '2024-01-12T00:17:09.440Z'}}, 'custom.disabledCapabilities': {'disabledCapabilities': {'value': [], 'timestamp': '2024-01-12T00:17:09.718Z'}}, 'samsungce.driverVersion': {'versionNumber': {'value': 22100101, 'timestamp': '2024-01-12T00:17:09.440Z'}}, 'samsungce.softwareUpdate': {'targetModule': {'value': None}, 'otnDUID': {'value': '43CGCEMP7DVRC', 'timestamp': '2024-01-12T00:17:09.718Z'}, 'lastUpdatedDate': {'value': None}, 'availableModules': {'value': [], 'timestamp': '2024-01-12T00:17:09.718Z'}, 'newVersionAvailable': {'value': False, 'timestamp': '2024-01-12T00:17:09.718Z'}, 'operatingState': {'value': None}, 'progress': {'value': None}}, 'sec.diagnosticsInformation': {'logType': {'value': ['errCode', 'dump'], 'timestamp': '2024-01-12T00:17:09.718Z'}, 'endpoint': {'value': 'SSM', 'timestamp': '2024-01-12T00:17:09.718Z'}, 'minVersion': {'value': '1.0', 'timestamp': '2024-01-12T00:17:09.718Z'}, 'signinPermission': {'value': None}, 'setupId': {'value': 'AM0', 'timestamp': '2024-01-12T00:17:09.718Z'}, 'protocolType': {'value': 'wifi_https', 'timestamp': '2024-01-12T00:17:09.718Z'}, 'tsId': {'value': None}, 'mnId': {'value': '0AJT', 'timestamp': '2024-01-12T00:17:09.718Z'}, 'dumpType': {'value': 'file', 'timestamp': '2024-01-12T00:17:09.718Z'}}, 'temperatureMeasurement': {'temperatureRange': {'value': None}, 'temperature': {'value': 22.0, 'unit': 'C', 'timestamp': '2024-01-12T04:00:15.307Z'}}, 'dustSensor': {'dustLevel': {'value': 226, 'unit': 'μg/m^3', 'timestamp': '2024-01-12T05:15:20.453Z'}, 'fineDustLevel': {'value': 40, 'unit': 'μg/m^3', 'timestamp': '2024-01-12T05:15:20.453Z'}}, 'veryFineDustSensor': {'veryFineDustLevel': {'value': 36, 'unit': 'μg/m^3', 'timestamp': '2024-01-12T05:15:20.453Z'}}, 'custom.deviceReportStateConfiguration': {'reportStateRealtimePeriod': {'value': 'disabled', 'timestamp': '2024-01-12T00:17:09.509Z'}, 'reportStateRealtime': {'value': {'state': 'enabled', 'duration': 10, 'unit': 'minute'}, 'timestamp': '2024-01-12T00:17:25.902Z'}, 'reportStatePeriod': {'value': 'enabled', 'timestamp': '2024-01-12T00:17:09.509Z'}}, 'dustHealthConcern': {'dustHealthConcern': {'value': 'veryUnhealthy', 'timestamp': '2024-01-12T04:41:29.537Z'}}}}
+
+
+Response from  https://api.smartthings.com/v1/devices/ad7a40ae-a057-4f58-8bbb-a0beeea3b423
+	 deviceId ( <class 'str'> ) : 
+		 ad7a40ae-a057-4f58-8bbb-a0beeea3b423
+	 name ( <class 'str'> ) : 
+		 Water Sensor
+	 label ( <class 'str'> ) : 
+		 Water Sensor
+	 manufacturerName ( <class 'str'> ) : 
+		 SmartThingsCommunity
+	 presentationId ( <class 'str'> ) : 
+		 838ae989-b832-3610-968c-2940491600f6
+	 locationId ( <class 'str'> ) : 
+		 ec32f564-8061-453f-8ae3-cb5b541fe9f1
+	 ownerId ( <class 'str'> ) : 
+		 1bb1edd1-168f-54da-2429-3aaf64dfa095
+	 roomId ( <class 'str'> ) : 
+		 2e4bc9a1-1b19-4649-a3f2-a39a63ebe702
+	 components ( <class 'list'> ) : 
+		 (0)
+			 id ( <class 'str'> ) :  main
+			 label ( <class 'str'> ) :  main
+			 capabilities ( <class 'list'> ) :  [{'id': 'waterSensor', 'version': 1}, {'id': 'battery', 'version': 1}, {'id': 'refresh', 'version': 1}]
+			 categories ( <class 'list'> ) :  [{'name': 'LeakSensor', 'categoryType': 'manufacturer'}]
+
+
+	 createTime ( <class 'str'> ) : 
+		 2024-01-08T05:35:23.072Z
+	 profile ( <class 'dict'> ) : 
+		 {'id': '39230a95-d42d-34d4-a33c-f79573495a30'}
+	 virtual ( <class 'dict'> ) : 
+		 {'name': 'Water Sensor', 'executingLocally': False}
+	 type ( <class 'str'> ) : 
+		 VIRTUAL
+	 restrictionTier ( <class 'int'> ) : 
+		 0
+	 allowed ( <class 'NoneType'> ) : 
+		 None
+	 executionContext ( <class 'str'> ) : 
+		 CLOUD
+
+
+Response from  https://api.smartthings.com/v1/devices/ad7a40ae-a057-4f58-8bbb-a0beeea3b423/status
+	 components ( <class 'dict'> ) : 
+		 {'main': {'waterSensor': {'water': {'value': 'dry', 'timestamp': '2024-01-08T05:35:23.866Z'}}, 'refresh': {}, 'battery': {'battery': {'value': 100, 'unit': '%', 'timestamp': '2024-01-08T05:35:23.866Z'}}}}
+
+
+Response from  https://api.smartthings.com/v1/devices/85790465-402e-43df-bd4d-3f71b2b46e6d
+	 deviceId ( <class 'str'> ) : 
+		 85790465-402e-43df-bd4d-3f71b2b46e6d
+	 name ( <class 'str'> ) : 
+		 냉장고
+	 label ( <class 'str'> ) : 
+		 냉장고
+	 manufacturerName ( <class 'str'> ) : 
+		 SmartThingsCommunity
+	 presentationId ( <class 'str'> ) : 
+		 a43ac549-31e0-3ccb-806a-624d90aab5ef
+	 locationId ( <class 'str'> ) : 
+		 ec32f564-8061-453f-8ae3-cb5b541fe9f1
+	 ownerId ( <class 'str'> ) : 
+		 1bb1edd1-168f-54da-2429-3aaf64dfa095
+	 roomId ( <class 'str'> ) : 
+		 2e4bc9a1-1b19-4649-a3f2-a39a63ebe702
+	 components ( <class 'list'> ) : 
+		 (0)
+			 id ( <class 'str'> ) :  main
+			 label ( <class 'str'> ) :  main
+			 capabilities ( <class 'list'> ) :  [{'id': 'contactSensor', 'version': 1}, {'id': 'powerConsumptionReport', 'version': 1}, {'id': 'demandResponseLoadControl', 'version': 1}, {'id': 'refresh', 'version': 1}, {'id': 'refrigeration', 'version': 1}, {'id': 'temperatureMeasurement', 'version': 1}, {'id': 'thermostatCoolingSetpoint', 'version': 1}]
+			 categories ( <class 'list'> ) :  [{'name': 'Refrigerator', 'categoryType': 'manufacturer'}]
+
+
+		 (1)
+			 id ( <class 'str'> ) :  freezer
+			 label ( <class 'str'> ) :  freezer
+			 capabilities ( <class 'list'> ) :  [{'id': 'contactSensor', 'version': 1}, {'id': 'temperatureMeasurement', 'version': 1}, {'id': 'thermostatCoolingSetpoint', 'version': 1}]
+			 categories ( <class 'list'> ) :  [{'name': 'Other', 'categoryType': 'manufacturer'}]
+
+
+		 (2)
+			 id ( <class 'str'> ) :  cooler
+			 label ( <class 'str'> ) :  cooler
+			 capabilities ( <class 'list'> ) :  [{'id': 'contactSensor', 'version': 1}, {'id': 'temperatureMeasurement', 'version': 1}, {'id': 'thermostatCoolingSetpoint', 'version': 1}]
+			 categories ( <class 'list'> ) :  [{'name': 'Other', 'categoryType': 'manufacturer'}]
+
+
+		 (3)
+			 id ( <class 'str'> ) :  cvroom
+			 label ( <class 'str'> ) :  cvroom
+			 capabilities ( <class 'list'> ) :  [{'id': 'contactSensor', 'version': 1}]
+			 categories ( <class 'list'> ) :  [{'name': 'Other', 'categoryType': 'manufacturer'}]
+
+
+		 (4)
+			 id ( <class 'str'> ) :  icemaker
+			 label ( <class 'str'> ) :  icemaker
+			 capabilities ( <class 'list'> ) :  [{'id': 'switch', 'version': 1}]
+			 categories ( <class 'list'> ) :  [{'name': 'Other', 'categoryType': 'manufacturer'}]
+
+
+		 (5)
+			 id ( <class 'str'> ) :  icemaker-02
+			 label ( <class 'str'> ) :  icemaker-02
+			 capabilities ( <class 'list'> ) :  [{'id': 'switch', 'version': 1}]
+			 categories ( <class 'list'> ) :  [{'name': 'Other', 'categoryType': 'manufacturer'}]
+
+
+	 createTime ( <class 'str'> ) : 
+		 2024-01-08T05:33:53.865Z
+	 profile ( <class 'dict'> ) : 
+		 {'id': 'ab5a3095-b2e4-381a-97f3-26c4069285db'}
+	 virtual ( <class 'dict'> ) : 
+		 {'name': '냉장고', 'executingLocally': False}
+	 type ( <class 'str'> ) : 
+		 VIRTUAL
+	 restrictionTier ( <class 'int'> ) : 
+		 0
+	 allowed ( <class 'NoneType'> ) : 
+		 None
+	 indoorMap ( <class 'dict'> ) : 
+		 {'coordinates': [0.0, 0.0, 0.0], 'rotation': [0.0, 0.0, 0.0], 'visible': False, 'data': None}
+	 executionContext ( <class 'str'> ) : 
+		 CLOUD
+
+
+Response from  https://api.smartthings.com/v1/devices/85790465-402e-43df-bd4d-3f71b2b46e6d/status
+	 components ( <class 'dict'> ) : 
+		 {'icemaker': {'switch': {'switch': {'value': 'on', 'timestamp': '2024-01-11T01:16:19.825Z'}}}, 'cooler': {'contactSensor': {'contact': {'value': 'closed', 'timestamp': '2024-01-08T05:33:54.594Z'}}, 'temperatureMeasurement': {'temperatureRange': {'value': {'maximum': 2168.9282940985245, 'step': 6319.640956822995, 'minimum': 2324.9483209421023}, 'unit': 'F', 'timestamp': '2024-01-08T05:33:54.594Z'}, 'temperature': {'value': 4561.64739211704, 'unit': 'F', 'timestamp': '2024-01-08T05:33:54.594Z'}}, 'thermostatCoolingSetpoint': {'coolingSetpointRange': {'value': {'maximum': 7323.21739687872, 'step': 7384.248065389632, 'minimum': 652.6243479043796}, 'unit': 'F', 'timestamp': '2024-01-08T05:33:54.594Z'}, 'coolingSetpoint': {'value': 4241.633255095335, 'unit': 'F', 'timestamp': '2024-01-08T05:33:54.594Z'}}}, 'freezer': {'contactSensor': {'contact': {'value': 'open', 'timestamp': '2024-01-08T05:33:54.594Z'}}, 'temperatureMeasurement': {'temperatureRange': {'value': {'maximum': 8755.488054617475, 'step': 8822.576463255848, 'minimum': 8641.631226738431}, 'unit': 'F', 'timestamp': '2024-01-08T05:33:54.594Z'}, 'temperature': {'value': 2150.8830958158155, 'unit': 'F', 'timestamp': '2024-01-08T05:33:54.594Z'}}, 'thermostatCoolingSetpoint': {'coolingSetpointRange': {'value': {'maximum': 2685.635534025356, 'step': 2392.6174239520665, 'minimum': 2053.927948455133}, 'unit': 'F', 'timestamp': '2024-01-08T05:33:54.594Z'}, 'coolingSetpoint': {'value': 6364.715403290447, 'unit': 'F', 'timestamp': '2024-01-08T05:33:54.594Z'}}}, 'main': {'demandResponseLoadControl': {'drlcStatus': {'value': {'duration': 70, 'start': '14040229T065000+16:53', 'override': True, 'drlcType': 0, 'drlcLevel': 0}, 'timestamp': '2024-01-08T05:33:54.594Z'}}, 'contactSensor': {'contact': {'value': 'open', 'timestamp': '2024-01-08T05:33:54.594Z'}}, 'powerConsumptionReport': {'powerConsumption': {'value': {'persistedSavedEnergy': 6.686239758875745, 'powerEnergy': 65.7569245572165, 'energySaved': 53.02279098043831, 'start': '79040229T0529:02-0226', 'end': '6400-02-29T2027:27.847Z', 'power': 32.81767687949583, 'deltaEnergy': 34.39353148066488, 'energy': 88.42973666226344, 'persistedEnergy': 76.01419296889682}, 'timestamp': '2024-01-08T05:33:54.594Z'}}, 'refrigeration': {'defrost': {'value': 'on', 'timestamp': '2024-01-08T05:33:54.594Z'}, 'rapidCooling': {'value': 'on', 'timestamp': '2024-01-08T05:33:54.594Z'}, 'rapidFreezing': {'value': 'off', 'timestamp': '2024-01-08T05:33:54.594Z'}}, 'refresh': {}, 'temperatureMeasurement': {'temperatureRange': {'value': {'maximum': 8557.067516675872, 'step': 7387.010656773914, 'minimum': 3104.4695001239147}, 'unit': 'F', 'timestamp': '2024-01-08T05:33:54.594Z'}, 'temperature': {'value': 3336.643597068104, 'unit': 'F', 'timestamp': '2024-01-08T05:33:54.594Z'}}, 'thermostatCoolingSetpoint': {'coolingSetpointRange': {'value': {'maximum': 9316.200115536069, 'step': 6783.652914435777, 'minimum': 8852.112007981055}, 'unit': 'F', 'timestamp': '2024-01-08T05:33:54.594Z'}, 'coolingSetpoint': {'value': 9257.535564130314, 'unit': 'F', 'timestamp': '2024-01-08T05:33:54.594Z'}}}, 'cvroom': {'contactSensor': {'contact': {'value': 'closed', 'timestamp': '2024-01-08T05:33:54.594Z'}}}, 'icemaker-02': {'switch': {'switch': {'value': 'off', 'timestamp': '2024-01-08T05:36:02.048Z'}}}}
+
+
+Response from  https://api.smartthings.com/v1/deviceprofiles
+ items ( <class 'list'> ) : 
+	 (0)
+		 id ( <class 'str'> ) :  57c07c7a-4785-4af1-8198-3b8365617635
+		 name ( <class 'str'> ) :  minhyuk.song_Z_Flip_3
+		 metadata ( <class 'dict'> ) :  {'deviceType': 'Smart Tag', 'vid': 'ST_f6daa538-ae4a-436c-9847-fa2ace1cd312', 'mnmn': 'f3hf', 'ocfDeviceType': 'x.com.st.d.tag', 'deviceTypeId': 'Smart Tag', 'ocfSpecVer': 'core 1.1.0', 'mnid': 'f3hf', 'mnId': 'f3hf'}
+		 migrationStatus ( <class 'str'> ) :  NOT_MIGRATED
+		 status ( <class 'str'> ) :  DEVELOPMENT
+		 preferences ( <class 'list'> ) :  []
+		 components ( <class 'list'> ) :  [{'label': 'main', 'id': 'main', 'capabilities': [{'id': 'alarm', 'version': 1, 'ephemeral': False}, {'id': 'tag.tagButton', 'version': 1, 'ephemeral': False}, {'id': 'audioVolume', 'version': 1, 'ephemeral': False}, {'id': 'battery', 'version': 1, 'ephemeral': False}, {'id': 'tag.factoryReset', 'version': 1, 'ephemeral': False}, {'id': 'tag.e2eEncryption', 'version': 1, 'ephemeral': False}, {'id': 'tag.tagStatus', 'version': 1, 'ephemeral': False}, {'id': 'geolocation', 'version': 1, 'ephemeral': False}, {'id': 'geofence', 'version': 1, 'ephemeral': False}, {'id': 'tag.updatedInfo', 'version': 1, 'ephemeral': False}, {'id': 'tag.searchingStatus', 'version': 1, 'ephemeral': False}], 'categories': []}]
+		 owner ( <class 'dict'> ) :  {'ownerType': 'USER', 'ownerId': '1bb1edd1-168f-54da-2429-3aaf64dfa095'}
+
+
+ _links ( <class 'dict'> ) : 
+	 {}
+
+
